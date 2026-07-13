@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cleavens Remote Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <h2>Cleavens Remote Services</h2>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <h1>Professional Remote Support Solutions</h1>
+        <p>
+            Multilingual customer service and remote assistance 
+            designed to help businesses improve communication,
+            organization, and customer experience.
+        </p>
+
+        <a class="button" href="#contact">
+            Contact Me
+        </a>
+    </section>
+</header>
+
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+I’m Cleavens Florestal, founder of Cleavens Remote Services.
+I provide professional remote support focused on customer service,
+communication, and operational assistance.
+
+With experience in hospitality, customer support, and team leadership,
+I help companies deliver excellent experiences to their clients.
+</p>
+
+<p>
+I speak English, Spanish, French, and Haitian Creole fluently,
+allowing me to support international customers and diverse teams.
+</p>
+
+</section>
+
+
+
+<section id="services">
+
+<h2>My Services</h2>
+
+
+<div class="cards">
+
+<div class="card">
+<h3>Customer Support</h3>
+<p>
+Professional assistance through phone, email, and digital platforms.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Virtual Assistance</h3>
+<p>
+Organization, scheduling, administrative support, and daily operations.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Remote Communication</h3>
+<p>
+Multilingual communication support for international businesses.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Dispatch Support</h3>
+<p>
+Helping transportation companies coordinate communication and operations.
+</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+
+<p><strong>Name:</strong> Cleavens Florestal</p>
+
+<p><strong>Business:</strong> Cleavens Remote Services</p>
+
+<p>
+<strong>Email:</strong>
+<a href="mailto:cleavensflorestal@gmail.com">
+cleavensflorestal@gmail.com
+</a>
+</p>
+
+
+<p>
+<strong>Phone:</strong>
++1 849-342-4408
+</p>
+
+
+<p>
+<strong>Address:</strong>
+Dominicus, Av Caoba Apt L8
+</p>
+
+
+<p>
+<strong>LinkedIn:</strong>
+<a href="#">
+Cleavens Florestal | LinkedIn
+</a>
+</p>
+
+
+</section>
+
+
+
+<footer>
+
+<p>
+© 2026 Cleavens Remote Services. All Rights Reserved.
+</p>
+
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
